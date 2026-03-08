@@ -1,6 +1,6 @@
-# OratioAI — Waitlist Landing Page
+# AinaVoice — Waitlist Landing Page
 
-Une **Waitlist Landing Page** pour OratioAI, la plateforme SaaS de formation en art oratoire propulsée par l'IA.
+Une **Waitlist Landing Page** pour AinaVoice, la plateforme SaaS de formation en rhetorique et art oratoire propulsee par l'IA.
 
 ## Stack technique
 
